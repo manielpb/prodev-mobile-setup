@@ -1,3 +1,2 @@
-Expo GO setup 
-Setup was actually quite easy and i didnt have any problem getting around 
-it
+reset-project creates a copy of the code in 
+app/(tabs)/index.tsx into a new directory called app-example 
